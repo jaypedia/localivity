@@ -11,9 +11,9 @@
   },
   {
     "idx": 2,
-    "name": "AA 아쿠아리움 상어 밥주기 이용권",
+    "name": "아쿠아리움 상어 밥주기 이용권",
     "mainImage": "https://picsum.photos/id/18/300/300",
-    "description": "AA 아쿠아리움 상어 밥주기에 대한 내용입니다.",
+    "description": "아쿠아리움 상어 밥주기에 대한 내용입니다.",
     "spaceCategory": "서울",
     "price": 10000,
     "maximumPurchases": 2,
@@ -31,7 +31,7 @@
   },
   {
     "idx": 4,
-    "name": "씽씽카 렌달 이용권",
+    "name": "씽씽카 렌탈 이용권",
     "mainImage": "https://picsum.photos/id/20/300/300",
     "description": "씽씽카 렌탈 이용권에 대한 내용입니다.",
     "spaceCategory": "부산",
@@ -41,7 +41,7 @@
   },
   {
     "idx": 5,
-    "name": "AA 전망대 당일 입장권",
+    "name": "전망대 당일 입장권",
     "mainImage": "https://picsum.photos/id/25/300/300",
     "description": "전망대 당일 입장권에 대한 내용입니다.",
     "spaceCategory": "대구",
@@ -61,9 +61,9 @@
   },
   {
     "idx": 7,
-    "name": "ABC 페러글라이딩 이벤트 참여권",
+    "name": "ABC 패러글라이딩 이벤트 참여권",
     "mainImage": "https://picsum.photos/id/27/300/300",
-    "description": "ABC 페러글라이딩 이벤트 참여권에 대한 내용입니다.",
+    "description": "ABC 패러글라이딩 이벤트 참여권에 대한 내용입니다.",
     "spaceCategory": "서울",
     "price": 25000,
     "maximumPurchases": 2,
